@@ -1,7 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+
 
 Highlights:
 
