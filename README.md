@@ -2,6 +2,8 @@
 
 > Full-stack messaging with real-time capabilities
 
+🌐 **Live Demo** → [https://chat-app-fudp.onrender.com](https://chat-app-fudp.onrender.com)
+
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue)
 ![Socket.io](https://img.shields.io/badge/Realtime-Socket.io-green)
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-purple)
